@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+
+    <!-- The ID of your plugin, never change this -->
+    <Id>9AC2F6A8-B8A7-4250-8814-BADE62C5CF3C</Id>
+
+    <!-- GitHub repository ID -->
+    <RepoId>OwendB1/SE-GridBackups</RepoId>
+
+    <!-- The name of your plugin that will appear in the plugin list -->
+    <FriendlyName>GridBackups</FriendlyName>
+
+    <!-- The author name that you want to appear in the plugin list -->
+    <Author>OwendB</Author>
+
+    <!-- Optional tooltip for the plugin in the plugin list -->
+    <Tooltip>Automatic grid blueprint backups</Tooltip>
+
+    <!-- Optional plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+    <Description>GridBackups is a Magnetar server plugin that exports ship and station grid blueprints on configurable triggers — interval, steady-state, change thresholds, and pre-concealment — and stores them in a shared Quasar data folder so backups aren't tied to a single managed Magnetar host. Supports connected-grid grouping, owner-named folders, NPC/nobody filtering, retention limits, the !gridbackup chat commands, and an external API for other plugins to request backups directly.</Description>
+
+    <!-- Only source code in the Directory entries listed in SourceDirectories is compiled. Exclude any test projects or similar. -->
+    <SourceDirectories>
+        <Directory>ServerPlugin</Directory>
+        <Directory>Shared</Directory>
+    </SourceDirectories>
+
+    <!-- The current plugin version's commit hash -->
+    <Commit>7aa881b73ca86b72ca62e25fda52c6eb06ea38ef</Commit>
+
+</PluginData>

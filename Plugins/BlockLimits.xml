@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+
+    <!-- The ID of your plugin, never change this -->
+    <Id>9103FB18-9813-4B64-9D87-A58434266D93</Id>
+
+    <!-- GitHub repository ID -->
+    <RepoId>OwendB1/SE-BlockLimits</RepoId>
+
+    <!-- The name of your plugin that will appear in the plugin list -->
+    <FriendlyName>Block Limits</FriendlyName>
+
+    <!-- The author name that you want to appear in the plugin list -->
+    <Author>OwendB</Author>
+
+    <!-- Optional tooltip for the plugin in the plugin list -->
+    <Tooltip>Enforces block limit rules by player, faction, and grid</Tooltip>
+
+    <!-- Optional plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+    <Description>BlockLimits is a Space Engineers dedicated server plugin for Magnetar that enforces block limit rules by player, faction, and grid. It supports grid size limits, optional import of the vanilla block type limits, and the !blocklimit chat commands for inspecting and managing limits in-game. Built on the Magnetar PluginSdk with its config UI rendered by Quasar, it also exposes a cross-plugin API (BlockLimits.PluginApi.Limits.CanAdd) that other plugins can call to gate block placement against the configured limits.</Description>
+
+    <!-- Only source code in the Directory entries listed in SourceDirectories is compiled. Exclude any test projects or similar. -->
+    <SourceDirectories>
+        <Directory>ServerPlugin</Directory>
+        <Directory>Shared</Directory>
+    </SourceDirectories>
+
+    <!-- The current plugin version's commit hash -->
+    <Commit>707d8fc56de8e21f5a3996b48642dab37c79d845</Commit>
+
+</PluginData>
