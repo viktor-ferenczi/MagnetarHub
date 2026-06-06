@@ -11,7 +11,7 @@
     <FriendlyName>Hangar</FriendlyName>
 
     <!-- The author name that you want to appear in the plugin list -->
-    <Author>viktor-ferenczi</Author>
+    <Author>Viktor</Author>
 
     <!-- Optional tooltip for the plugin in the plugin list -->
     <Tooltip>Offline grid storage</Tooltip>
