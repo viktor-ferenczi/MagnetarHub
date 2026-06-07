@@ -17,7 +17,25 @@
     <Tooltip>Offline grid storage</Tooltip>
 
     <!-- Optional plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-    <Description>Hangar is a server-side Space Engineers plugin for Magnetar that lets players store grids in a personal hangar and retrieve them later. With the !hangar (!h) chat commands players can save the grid they are looking at or one named explicitly, list their stored grids with block and PCU summaries, view detailed grid info, load a grid back into the world near themselves or at its original position, and delete entries; admins can toggle the plugin and check its status. Configurable options include per-player slot limits, save cooldowns, block and PCU caps per entry, optional inclusion of connected subgrids, ownership transfer on load, majority-ownership checks, and a centralized Quasar-managed storage path. Built on the Magnetar PluginSdk with its UI rendered by Quasar.</Description>
+    <Description>
+Hangar is a server-side Space Engineers plugin for Magnetar that lets players
+store grids in a personal hangar and retrieve them later.
+
+With the !hangar (!h) chat commands players can save the grid they are looking
+at or one named explicitly, list their stored grids with block and PCU
+summaries, view detailed grid info, load a grid back into the world near
+themselves or at its original position, and delete entries; admins can toggle
+the plugin and check its status.
+
+Configurable options include per-player slot limits, save cooldowns, block and
+PCU caps per entry, optional inclusion of connected subgrids, ownership
+transfer on load, majority-ownership checks, and a centralized Quasar-managed
+storage path. Built on the Magnetar PluginSdk with its UI rendered by Quasar.
+
+Functionality is inspired by and reimplements the original Torch plugin
+QuantumHangar by Casimir255 (license: Apache-2.0):
+https://github.com/Casimir255/QuantumHangar)
+</Description>
 
     <!-- Only source code in the Directory entries listed in SourceDirectories is compiled. Exclude any test projects or similar. -->
     <SourceDirectories>

@@ -17,7 +17,24 @@
     <Tooltip>Quality-of-life admin and player essentials</Tooltip>
 
     <!-- Optional plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-    <Description>Essentials is a Magnetar server plugin for Space Engineers dedicated servers that bundles a broad set of quality-of-life and admin tools, all configured through the Magnetar PluginSdk with the config UI rendered by Quasar. It adds ship repair (!fixship), PCU and ownership transfer and inspection (!transfer, !pcu), economy management with player-to-player payments (!econ), and bulk block enable/disable/removal (!blocks). Server features include a customizable MOTD with optional Steam overlay links, stopping all ships on startup, automatic empty-backpack cleanup, owned-grid GPS listing, and optional matchmaking tag filtering. Harmony patches are guarded with the EnsureCode attribute so they fail safe when Space Engineers ships an update that changes patched methods.</Description>
+    <Description>
+Essentials is a Magnetar server plugin for Space Engineers dedicated servers
+that bundles a broad set of quality-of-life and admin tools, all configured
+through the Magnetar PluginSdk with the config UI rendered by Quasar.
+
+It adds ship repair (!fixship), PCU and ownership transfer and inspection
+(!transfer, !pcu), economy management with player-to-player payments (!econ),
+and bulk block enable/disable/removal (!blocks).
+
+Server features include a customizable MOTD with optional Steam overlay links,
+stopping all ships on startup, automatic empty-backpack cleanup, owned-grid GPS
+listing, and optional matchmaking tag filtering. Harmony patches are guarded
+with the EnsureCode attribute so they fail-safe when Space Engineers ships an
+update that changes patched methods.
+
+Functionality is inspired by and reimplements the original Torch plugin
+Essentials by TorchAPI: https://github.com/TorchAPI/Essentials
+</Description>
 
     <!-- Only source code in the Directory entries listed in SourceDirectories is compiled. Exclude any test projects or similar. -->
     <SourceDirectories>

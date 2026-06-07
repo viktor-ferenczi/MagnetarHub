@@ -17,7 +17,20 @@
     <Tooltip>Automatic grid blueprint backups</Tooltip>
 
     <!-- Optional plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-    <Description>GridBackups is a Magnetar server plugin that exports ship and station grid blueprints on configurable triggers — interval, steady-state, change thresholds, and pre-concealment — and stores them in a shared Quasar data folder so backups aren't tied to a single managed Magnetar host. Supports connected-grid grouping, owner-named folders, NPC/nobody filtering, retention limits, the !gridbackup chat commands, and an external API for other plugins to request backups directly.</Description>
+    <Description>
+GridBackups is a Magnetar server plugin that exports ship and station grid
+blueprints on configurable triggers — interval, steady-state, change
+thresholds, and pre-concealment — and stores them in a shared Quasar data
+folder so backups aren't tied to a single managed Magnetar host.
+
+Supports connected-grid grouping, owner-named folders, NPC/nobody filtering,
+retention limits, the !gridbackup chat commands, and an external API for other
+plugins to request backups directly.
+
+Functionality is inspired by and reimplements the original Torch plugin
+GridBackup by LordTylus (license: Apache-2.0):
+https://github.com/LordTylus/SE-Torch-Plugin-ALE-GridBackup
+</Description>
 
     <!-- Only source code in the Directory entries listed in SourceDirectories is compiled. Exclude any test projects or similar. -->
     <SourceDirectories>
