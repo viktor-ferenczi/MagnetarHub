@@ -38,6 +38,6 @@ Concealment by TorchAPI: https://github.com/TorchAPI/Concealment
     </SourceDirectories>
 
     <!-- The current plugin version's commit hash -->
-    <Commit>66869a7926350b0bec0f89c8141f83a6f968d79f</Commit>
+    <Commit>6cb09a23f0969cad85856993bcdc7e71c2fde950</Commit>
 
 </PluginData>
