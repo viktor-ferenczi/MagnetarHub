@@ -55,7 +55,7 @@
     -->
 
     <!-- The current plugin version's commit hash -->
-    <Commit>62d2af77ceb47887aa7c0f2b74e206ce69bc2b61</Commit>
+    <Commit>6d9f52af9f6b993171aa7e4ac514a415bc84ba33</Commit>
 
     <!-- Optional list of alternate versions of the plugin, use it for test or custom builds
     <AlternateVersions>
