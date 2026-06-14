@@ -52,7 +52,7 @@
     <Hidden>true</Hidden>
 
     <!-- The current plugin version's commit hash -->
-    <Commit>d291ab1fff751ea5d1785ce184d390eac400183f</Commit>
+    <Commit>26e85d03e7bfe3dce92a481bcbad9f0f998d5ecc</Commit>
 
     <!-- Optional list of alternate versions of the plugin, use it for test or custom builds
     <AlternateVersions>
