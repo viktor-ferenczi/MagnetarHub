@@ -24,7 +24,7 @@ through the Magnetar PluginSdk with the config UI rendered by Quasar.
 
 It adds ship repair (!fixship), PCU and ownership transfer and inspection
 (!transfer, !pcu), economy management with player-to-player payments (!econ),
-and bulk block enable/disable/removal (!blocks).
+bulk block enable/disable/removal (!blocks) and auto-commands.
 
 Server features include a customizable MOTD with optional Steam overlay links,
 stopping all ships on startup, automatic empty-backpack cleanup, owned-grid GPS
@@ -43,6 +43,6 @@ Essentials by TorchAPI: https://github.com/TorchAPI/Essentials
     </SourceDirectories>
 
     <!-- The current plugin version's commit hash -->
-    <Commit>7e1800e1fbbb9cad3de4d9ab4853f5c7f73151fd</Commit>
+    <Commit>6dccc180fb3af2116127e347358b44e1164c6ac0</Commit>
 
 </PluginData>
