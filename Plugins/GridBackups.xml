@@ -39,6 +39,6 @@ https://github.com/LordTylus/SE-Torch-Plugin-ALE-GridBackup
     </SourceDirectories>
 
     <!-- The current plugin version's commit hash -->
-    <Commit>c54192b77c3965ece866c05ed4d06345d0b9046a</Commit>
+    <Commit>056a250410ea4d286385d27d7f4ef24d773d515a</Commit>
 
 </PluginData>
