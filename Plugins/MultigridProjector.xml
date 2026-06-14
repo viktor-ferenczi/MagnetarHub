@@ -5,7 +5,7 @@
     <Id>B91FD7B3-E1AC-4B57-8765-C677A7AC1F5F</Id>
 
     <!-- GitHub repository ID -->
-    <RepoId>viktor-ferenczi/se-mgp</RepoId>
+    <RepoId>viktor-ferenczi/se-multigrid-projector</RepoId>
 
     <!-- The name of your plugin that will appear in the plugin list -->
     <FriendlyName>Multigrid Projector</FriendlyName>
