@@ -5,7 +5,7 @@
     <Id>DF09925B-6D53-41F2-899C-CA6214B5DD6F</Id>
 
     <!-- GitHub repository ID -->
-    <RepoId>OwendB1/SE-Essentials</RepoId>
+    <RepoId>CometWorks/essentials</RepoId>
 
     <!-- The name of your plugin that will appear in the plugin list -->
     <FriendlyName>Essentials</FriendlyName>

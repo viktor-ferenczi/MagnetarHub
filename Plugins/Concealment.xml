@@ -5,7 +5,7 @@
     <Id>C88741F0-0AA5-4263-BD78-5D21467A84D3</Id>
 
     <!-- GitHub repository ID -->
-    <RepoId>viktor-ferenczi/se-concealment</RepoId>
+    <RepoId>CometWorks/concealment</RepoId>
 
     <!-- The name of your plugin that will appear in the plugin list -->
     <FriendlyName>Concealment</FriendlyName>
