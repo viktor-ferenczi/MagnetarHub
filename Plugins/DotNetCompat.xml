@@ -3,7 +3,7 @@
 
     <Id>se-dotnet-compat</Id>
     <GroupId>se-dotnet-compat</GroupId>
-    <RepoId>viktor-ferenczi/se-dotnet-compat</RepoId>
+    <RepoId>CometWorks/dotnet-compat</RepoId>
 
     <FriendlyName>DotNetCompat</FriendlyName>
     <Author>Viktor</Author>
